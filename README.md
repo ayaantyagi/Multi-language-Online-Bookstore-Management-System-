@@ -40,7 +40,7 @@ BookstoreProject/
 │   │   │   │   └── service/BookService.java         
 │   │   │   └── resources/application.properties         
 │   └── pom.xml        
-├── frontend/               # Frontend HTML, CSS, JS files      
+├── frontend/               # Frontend HTML, CSS, JS files           
 │   └── index.html   
 ├── analytics/              # Python analytics scripts        
 │   └── sales_report.py       
