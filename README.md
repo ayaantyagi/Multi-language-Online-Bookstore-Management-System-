@@ -63,7 +63,7 @@ Git (for version control)
 spring.datasource.url=jdbc:mysql://localhost:3306/bookstore_db?useSSL=false&serverTimezone=UTC                      
 spring.datasource.username=your_db_username                                    
 spring.datasource.password=your_db_password                                                                                                
-spring.jpa.hibernate.ddl-auto=update                                                         
+spring.jpa.hibernate.ddl-auto=update                                                                  
 spring.jpa.show-sql=true                                                                                                 
 spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQL8Dialect 
 
