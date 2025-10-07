@@ -106,7 +106,7 @@ pip install mysql-connector-python matplotlib
 2. Order management and payment integration                                              
 3. Enhanced frontend with React or Angular                                              
 4. Real-time analytics dashboard                                                 
-5. Improved recommendation algorithm with machine learning
+5. Improved recommendation algorithm with machine learning   
 
 ## License  
 MIT License
