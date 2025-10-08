@@ -90,7 +90,7 @@ pip install mysql-connector-python matplotlib
 
 ## C++ Recommendation Engine
 1. Navigate to the recommendation/ folder.                                 
-2. Compile the C++ program:                              
+2. Compile the C++ program:                               
 
      g++ recommend.cpp -o recommend
 
@@ -102,7 +102,7 @@ pip install mysql-connector-python matplotlib
 <img width="681" height="352" alt="Screenshot 2025-10-02 025137" src="https://github.com/user-attachments/assets/045616d4-367c-4fb4-8189-d0a711602716" />
 
 ## Future Enhancements
-1. User authentication and authorization                                             
+1. User authentication and authorization                                              
 2. Order management and payment integration                                              
 3. Enhanced frontend with React or Angular                                              
 4. Real-time analytics dashboard                                                 
