@@ -26,7 +26,7 @@ This project is a full-stack online bookstore management system designed to demo
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)                
                  
                                                                                                                                                                  
-## <img width="725" height="342" alt="Screenshot 2025-10-02 022151" src="https://github.com/user-attachments/assets/5ee3662f-4e18-4e3b-817a-576823efa727" />             
+## <img width="725" height="342" alt="Screenshot 2025-10-02 022151" src="https://github.com/user-attachments/assets/5ee3662f-4e18-4e3b-817a-576823efa727" />                
 ## Project Structure                                                         
                                                                               
 BookstoreProject/                                                          
@@ -34,7 +34,7 @@ BookstoreProject/
 │   ├── src/        
 │   │   ├── main/           
 │   │   │   ├── java/com/example/bookstore/           
-│   │   │   │   ├── controller/BookController.java         
+│   │   │   │   ├── controller/BookController.java          
 │   │   │   │   ├── model/Book.java         
 │   │   │   │   ├── repository/BookRepository.java        
 │   │   │   │   └── service/BookService.java         
