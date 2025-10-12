@@ -63,12 +63,12 @@ Git (for version control)
 spring.datasource.url=jdbc:mysql://localhost:3306/bookstore_db?useSSL=false&serverTimezone=UTC                      
 spring.datasource.username=your_db_username                                    
 spring.datasource.password=your_db_password                                                                                                
-spring.jpa.hibernate.ddl-auto=update                                                                  
-spring.jpa.show-sql=true                                                                                                 
-spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQL8Dialect 
-
-3. Create the database bookstore_db in your SQL server.                                              
-4. Build and run the backend:
+spring.jpa.hibernate.ddl-auto=update                                                                      
+spring.jpa.show-sql=true                                                                                                            
+spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQL8Dialect             
+                                                          
+3. Create the database bookstore_db in your SQL server.                                                            
+4. Build and run the backend:                 
      
 ./mvnw spring-boot:run              
 
@@ -89,7 +89,7 @@ pip install mysql-connector-python matplotlib
    python sales_report.py
  
 ## C++ Recommendation Engine 
-1. Navigate to the recommendation/ folder.                                 
+1. Navigate to the recommendation/ folder.                                  
 2. Compile the C++ program:                               
 
      g++ recommend.cpp -o recommend
