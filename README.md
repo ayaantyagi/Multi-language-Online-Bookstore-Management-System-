@@ -46,7 +46,7 @@ BookstoreProject/
 │   └── sales_report.py       
 ├── recommendation/         # C++ recommendation engine        
 │   └── recommend.cpp       
-└── README.md               # Project documentation     
+└── README.md               # Project documentation      
 
 # Setup and Installation
 ## Prerequisites                 
