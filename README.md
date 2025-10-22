@@ -5,8 +5,8 @@
 This project is a full-stack online bookstore management system designed to demonstrate proficiency in multiple programming languages and technologies. It integrates Java, SQL, Python, and C++ to deliver a comprehensive solution for managing books, orders, and analytics, along with a user-friendly website interface.
 
 ### Key Features
- 
-- **Book Management:** Add, update, delete, and view books with details such as title, author, price, and stock.
+  
+- **Book Management:** Add, update, delete, and view books with details such as title, author, price, and stock. 
 - **User  Orders:** Users can browse books and place orders (to be implemented).                     
 - **Sales Analytics:** Python scripts analyze sales data and generate visual reports.                   
 - **Recommendation Engine:** A C++ module provides personalized book recommendations based on purchase history.
