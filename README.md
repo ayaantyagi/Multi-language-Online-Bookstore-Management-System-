@@ -1,4 +1,4 @@
-# Multi-language Online Bookstore Management System
+ # Multi-language Online Bookstore Management System
 
 ## Project Overview
 
@@ -94,7 +94,7 @@ pip install mysql-connector-python matplotlib
 
      g++ recommend.cpp -o recommend
 
-3. Run the executable:
+3. Run the executable:    
 
    ./recommend
 
