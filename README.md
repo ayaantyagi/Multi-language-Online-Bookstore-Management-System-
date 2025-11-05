@@ -3,7 +3,7 @@
 ## Project Overview
 
 This project is a full-stack online bookstore management system designed to demonstrate proficiency in multiple programming languages and technologies. It integrates Java, SQL, Python, and C++ to deliver a comprehensive solution for managing books, orders, and analytics, along with a user-friendly website interface.
-
+ 
 ### Key Features 
   
 - **Book Management:** Add, update, delete, and view books with details such as title, author, price, and stock. 
@@ -15,7 +15,7 @@ This project is a full-stack online bookstore management system designed to demo
 ---
 
 ## Technologies Used
-              
+                
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
