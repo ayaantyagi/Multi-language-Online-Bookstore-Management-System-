@@ -28,7 +28,7 @@ This project is a full-stack online bookstore management system designed to demo
                                                                                                                                                                  
 ## <img width="725" height="342" alt="Screenshot 2025-10-02 022151" src="https://github.com/user-attachments/assets/5ee3662f-4e18-4e3b-817a-576823efa727" />                
 ## Project Structure                                                         
-                                                                              
+                                                                               
 BookstoreProject/                                                          
 ├── backend/                # Java Spring Boot backend                                            
 │   ├── src/        
@@ -46,7 +46,7 @@ BookstoreProject/
 │   └── sales_report.py       
 ├── recommendation/         # C++ recommendation engine        
 │   └── recommend.cpp       
-└── README.md               # Project documentation      
+└── README.md               # Project documentation       
 
 # Setup and Installation
 ## Prerequisites                 
