@@ -1,4 +1,4 @@
- # Multi-language Online Bookstore Management System
+  # Multi-language Online Bookstore Management System
 
 ## Project Overview
 
@@ -50,7 +50,7 @@ BookstoreProject/
 
 # Setup and Installation
 ## Prerequisites                 
-Java 17+ and Maven                           
+Java 17+ and Maven                            
 MySQL or PostgreSQL database server                                
 Python 3.x with mysql-connector-python and matplotlib                          
 C++ compiler (g++, clang, or equivalent)                                  
