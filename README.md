@@ -13,7 +13,7 @@ This project is a full-stack online bookstore management system designed to demo
 - **Responsive Frontend:** A website built with HTML, CSS, and JavaScript interacts with backend APIs.  
       
 ---
-
+ 
 ## Technologies Used 
                 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
