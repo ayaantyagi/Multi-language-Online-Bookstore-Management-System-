@@ -14,7 +14,7 @@ This project is a full-stack online bookstore management system designed to demo
       
 ---
   
-## Technologies Used 
+## Technologies Used  
                 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
