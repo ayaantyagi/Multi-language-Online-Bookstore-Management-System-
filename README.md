@@ -88,7 +88,7 @@ pip install mysql-connector-python matplotlib
 
    python sales_report.py
  
-## C++ Recommendation Engine  
+## C++ Recommendation Engine   
 1. Navigate to the recommendation/ folder.                                  
 2. Compile the C++ program:                               
 
