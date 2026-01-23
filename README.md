@@ -31,7 +31,7 @@ This project is a full-stack online bookstore management system designed to demo
                                                                                
 BookstoreProject/                                                          
 ├── backend/                # Java Spring Boot backend                                            
-│   ├── src/        
+│   ├── src/           
 │   │   ├── main/           
 │   │   │   ├── java/com/example/bookstore/           
 │   │   │   │   ├── controller/BookController.java          
