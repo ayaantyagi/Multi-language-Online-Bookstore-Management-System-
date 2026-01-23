@@ -11,7 +11,7 @@ This project is a full-stack online bookstore management system designed to demo
 - **Sales Analytics:** Python scripts analyze sales data and generate visual reports.                      
 - **Recommendation Engine:** A C++ module provides personalized book recommendations based on purchase history. 
 - **Responsive Frontend:** A website built with HTML, CSS, and JavaScript interacts with backend APIs.   
-      
+        
 ---
   
 ## Technologies Used  
