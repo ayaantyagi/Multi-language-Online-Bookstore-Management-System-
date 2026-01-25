@@ -52,7 +52,7 @@ BookstoreProject/
 ## Prerequisites                 
 Java 17+ and Maven                            
 MySQL or PostgreSQL database server                                
-Python 3.x with mysql-connector-python and matplotlib                          
+Python 3.x with mysql-connector-python and matplotlib                           
 C++ compiler (g++, clang, or equivalent)                                  
 Git (for version control)      
 
