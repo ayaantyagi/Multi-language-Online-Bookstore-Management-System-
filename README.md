@@ -38,7 +38,7 @@ BookstoreProject/
 │   │   │   │   ├── model/Book.java         
 │   │   │   │   ├── repository/BookRepository.java        
 │   │   │   │   └── service/BookService.java         
-│   │   │   └── resources/application.properties         
+│   │   │   └── resources/application.properties          
 │   └── pom.xml        
 ├── frontend/               # Frontend HTML, CSS, JS files           
 │   └── index.html    
