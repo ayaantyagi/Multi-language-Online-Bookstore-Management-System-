@@ -78,7 +78,7 @@ spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQL8Dialect
 1. Open the frontend/index.html file in your web browser.
 2. The frontend interacts with the backend API to display books and place orders.                    
 
-## Python Analytics
+## Python Analytics 
 1. Navigate to the analytics/ folder.
 2. Install required Python packages:
 
